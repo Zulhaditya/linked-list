@@ -24,7 +24,7 @@
 - Show node
 
 ## Setup
-To run this project, you need install MinGW Compiler on your pc and compile this file.
+To run this project, you need install MinGW Compiler on your PC and compile this file.
 
 ## Project Status
 Project is: _complete_
