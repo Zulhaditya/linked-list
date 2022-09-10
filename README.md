@@ -1,7 +1,4 @@
-# linked-list
-
-
-# Linked-list
+# Linked List
 > Implementation linked list in C++ programming language.
 
 ## Table of Contents
@@ -14,7 +11,7 @@
 
 ## General Information
 - Learn the application of linked lists in c++.
-- Linked List is a structure in the form of a series of interrelated elements where each element is linked to other elements through pointers.
+- Linked list is a structure in the form of a series of interrelated elements where each element is linked to other elements through pointers.
 
 ## Technologies Used
 - C++ version 20
