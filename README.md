@@ -14,7 +14,7 @@
 - Linked list is a structure in the form of a series of interrelated elements where each element is linked to other elements through pointers.
 
 ## Technologies Used
-- C++ version 20
+- C++ version 20.0
 
 ## Features
 - Add node
