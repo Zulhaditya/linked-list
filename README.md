@@ -17,11 +17,11 @@
 - C++ version 20.0
 
 ## Features
-- Add node
-- Delete first node
-- Delete last node
-- Clear node
-- Show node
+- Add node.
+- Delete first node.
+- Delete last node.
+- Clear node.
+- Show node.
 
 ## Setup
 To run this project, you need install MinGW Compiler on your PC and compile this file.
